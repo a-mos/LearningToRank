@@ -37,3 +37,4 @@ http://files.deeppavlov.ai/embeddings/ft_native_300_ru_wiki_lenta_lower_case/ft_
 3) Получение финального предсказания и графика полезности фичей: **Predict.ipynb**
 
 Скор public: **0.78536**, private: **0.78337**
+Презентация: L2R.pptx
